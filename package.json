@@ -1,0 +1,30 @@
+{
+  "name": "node-web-scraping",
+  "version": "0.0.1",
+  "description": "Nodejs scraping data website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NgaNguyenDuy/WebScraping"
+  },
+  "keywords": [
+    "nodejs",
+    "scraping",
+    "website",
+    "scraper"
+  ],
+  "author": "NgaNguyenDuy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NgaNguyenDuy/WebScraping/issues"
+  },
+  "homepage": "https://github.com/NgaNguyenDuy/WebScraping",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "express": "^4.8.6",
+    "request": "^2.40.0"
+  }
+}
